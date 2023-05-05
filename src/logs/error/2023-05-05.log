@@ -611,3 +611,12 @@ Error: ENOENT: no such file or directory, open 'D:\repositories\testovoeUserPDF\
 2023-05-05 20:01:09 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
 2023-05-05 20:01:11 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
 2023-05-05 20:01:41 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 20:05:04 error: uncaughtException: The "code" argument must be of type number. Received type string ('SIGINT')
+TypeError [ERR_INVALID_ARG_TYPE]: The "code" argument must be of type number. Received type string ('SIGINT')
+    at process.set [as exitCode] (node:internal/bootstrap/node:124:9)
+    at process.exit (node:internal/process/per_thread:188:24)
+    at process.<anonymous> (D:\repositories\testovoeUserPDF\node_modules\@prisma\client\runtime\library.js:99:2170)
+    at Object.onceWrapper (node:events:626:26)
+    at process.emit (node:events:511:28)
+    at process.emit (node:domain:489:12)
+    at process.emit.sharedData.processEmitHook.installedValue [as emit] (D:\repositories\testovoeUserPDF\node_modules\@cspotcode\source-map-support\source-map-support.js:745:40)
