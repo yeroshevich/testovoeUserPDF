@@ -5,8 +5,6 @@ import { IUserFilesService } from "@services/user/interfaces";
 import { userServiceFactory } from "@/app/factory/objects";
 import { IActionResult } from "@utils/image/interfaces";
 import { Response } from "express";
-import * as fs from "fs";
-import { USER_FILES_PATH } from "@config";
 
 @Controller('/user/files')
 export class FilesController{
