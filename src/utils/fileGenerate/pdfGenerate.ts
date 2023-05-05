@@ -7,7 +7,7 @@ import PdfPrinter from "pdfmake";
 
 export class PdfGenerate implements IGenerateFile{
   async generate(user: User): Promise<IUploadResult> {
-    const imagePath = `${USER_FILES_PATH}\\${user.user_id}\\${user.image.slice(user.image.lastIndexOf('/')+1,user.image.length)}`
+    const imagePath:string = `${USER_FILES_PATH}\\${user.user_id}\\${user.image.slice(user.image.lastIndexOf('/')+1,user.image.length)}`
     const fileName:string = `${user.firstName}.pdf`
     const path:string = `${USER_FILES_PATH}\\${user.user_id}\\${fileName}`
     const fonts = {
@@ -15,7 +15,7 @@ export class PdfGenerate implements IGenerateFile{
         normal: `${process.cwd()}\\src\\assets\\arialmt.ttf`,
       }
     }
-    const printer = new PdfPrinter(fonts)
+    const printer:PdfPrinter = new PdfPrinter(fonts)
     const defs = {
       content:[
         {
@@ -35,14 +35,14 @@ export class PdfGenerate implements IGenerateFile{
 
     const options = {}
     const doc= printer.createPdfKitDocument(defs,options)
-    const chunks = [];
+    const chunks:any[] = [];
 
     doc.on("data", chunk => {
       chunks.push(chunk);
     });
 
     doc.on("end", () => {
-      const result = Buffer.concat(chunks);
+      const result:Buffer = Buffer.concat(chunks);
        prisma.user.update({
         where:{user_id:user.user_id},
         data:{
