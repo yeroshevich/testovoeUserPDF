@@ -2,16 +2,18 @@ import {NextFunction, Response} from 'express';
 import {verify} from 'jsonwebtoken';
 import {SECRET_KEY} from '@config';
 import {HttpException} from '@exceptions/HttpException';
-import {IDataStoredInToken, IRequestWithUser} from '@interfaces/auth.interface';
 import prisma from "@prima/client";
 import { isEmpty } from "@utils/util";
 import { User } from "@prisma/client";
+import { IDataStoredInToken, IRequestWithUser } from "@services/auth/interfaces";
+import * as console from "console";
 
 
 
 const authMiddleware = async (req: IRequestWithUser, res: Response, next: NextFunction) => {
   try {
-    const Authorization:string = req.cookies['Authorization'] || (req.header('Authorization') ? req.header('Authorization').split('Bearer ')[1] : null);
+
+    const Authorization:string = req.cookies['authorization'] ||  (req.header('authorization') ? req.header('authorization') : null);
 
     if (isEmpty(Authorization))
       next(new HttpException(404, 'Authentication token missing'));
@@ -24,6 +26,7 @@ const authMiddleware = async (req: IRequestWithUser, res: Response, next: NextFu
          user_id:userId
        }
     })
+
 
     if(isEmpty(findedUser))
       next(new HttpException(401, 'Wrong authentication token'));

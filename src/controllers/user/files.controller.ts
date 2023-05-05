@@ -5,8 +5,10 @@ import { IUserFilesService } from "@services/user/interfaces";
 import { userServiceFactory } from "@/app/factory/objects";
 import { IActionResult } from "@utils/image/interfaces";
 import { Response } from "express";
+import authMiddleware from "@middlewares/auth.middleware";
 
 @Controller('/user/files')
+@UseBefore(authMiddleware)
 export class FilesController{
   private fileService:IUserFilesService = userServiceFactory.getUserFilesService()
   @Post('/read')

@@ -1,8 +1,10 @@
-import { Controller, Get, Param } from "routing-controllers";
+import { Controller, Get, Param, UseBefore } from "routing-controllers";
 import { IUserPhotoService } from "@services/user/interfaces";
 import { userServiceFactory } from "@/app/factory/objects";
+import authMiddleware from "@middlewares/auth.middleware";
 
 @Controller('/user/photo')
+@UseBefore(authMiddleware)
 export class UserPhotoController{
   private photoService:IUserPhotoService = userServiceFactory.getUserPhotoService()
   @Get('/:user_id/:filename')

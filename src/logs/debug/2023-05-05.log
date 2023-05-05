@@ -1482,3 +1482,243 @@ Unique constraint failed on the constraint: `user_email_key`
 2023-05-05 19:30:36 info: ======= ENV: development =======
 2023-05-05 19:30:36 info: 🚀 App listening on the port 8080
 2023-05-05 19:30:36 info: =================================
+2023-05-05 19:30:50 info: =================================
+2023-05-05 19:30:50 info: ======= ENV: development =======
+2023-05-05 19:30:50 info: 🚀 App listening on the port 8080
+2023-05-05 19:30:50 info: =================================
+2023-05-05 19:31:17 error: [POST] /user/ >> StatusCode:: 400, Message:: Error: This user already registered
+2023-05-05 19:31:17 info: [0mPOST /user/ [33m400[0m 64.232 ms - 49[0m
+2023-05-05 19:31:22 info: [0mPOST /user/ [32m200[0m 17.770 ms - 150[0m
+2023-05-05 19:31:33 info: [0mGET /user/photo/26/file.png [32m200[0m 1.421 ms - -[0m
+2023-05-05 19:31:46 info: [0mPOST /user/files/ [32m200[0m 67.815 ms - 53[0m
+2023-05-05 19:31:53 info: [0mPOST /user/files/read [32m200[0m 3.980 ms - -[0m
+2023-05-05 19:32:48 info: [0mPOST /user/files/ [32m200[0m 28.564 ms - 53[0m
+2023-05-05 19:33:39 info: =================================
+2023-05-05 19:33:39 info: ======= ENV: development =======
+2023-05-05 19:33:39 info: 🚀 App listening on the port 8080
+2023-05-05 19:33:39 info: =================================
+2023-05-05 19:34:22 info: =================================
+2023-05-05 19:34:22 info: ======= ENV: development =======
+2023-05-05 19:34:22 info: 🚀 App listening on the port 8080
+2023-05-05 19:34:22 info: =================================
+2023-05-05 19:34:54 info: =================================
+2023-05-05 19:34:54 info: ======= ENV: development =======
+2023-05-05 19:34:54 info: 🚀 App listening on the port 8080
+2023-05-05 19:34:54 info: =================================
+2023-05-05 19:35:32 info: =================================
+2023-05-05 19:35:32 info: ======= ENV: development =======
+2023-05-05 19:35:32 info: 🚀 App listening on the port 8080
+2023-05-05 19:35:32 info: =================================
+2023-05-05 19:35:43 info: =================================
+2023-05-05 19:35:43 info: ======= ENV: development =======
+2023-05-05 19:35:43 info: 🚀 App listening on the port 8080
+2023-05-05 19:35:43 info: =================================
+2023-05-05 19:35:59 info: =================================
+2023-05-05 19:35:59 info: ======= ENV: development =======
+2023-05-05 19:35:59 info: 🚀 App listening on the port 8080
+2023-05-05 19:35:59 info: =================================
+2023-05-05 19:37:11 info: =================================
+2023-05-05 19:37:11 info: ======= ENV: development =======
+2023-05-05 19:37:11 info: 🚀 App listening on the port 8080
+2023-05-05 19:37:11 info: =================================
+2023-05-05 19:37:19 info: =================================
+2023-05-05 19:37:19 info: ======= ENV: development =======
+2023-05-05 19:37:19 info: 🚀 App listening on the port 8080
+2023-05-05 19:37:19 info: =================================
+2023-05-05 19:37:47 info: =================================
+2023-05-05 19:37:47 info: ======= ENV: development =======
+2023-05-05 19:37:47 info: 🚀 App listening on the port 8080
+2023-05-05 19:37:47 info: =================================
+2023-05-05 19:38:05 info: =================================
+2023-05-05 19:38:05 info: ======= ENV: development =======
+2023-05-05 19:38:05 info: 🚀 App listening on the port 8080
+2023-05-05 19:38:05 info: =================================
+2023-05-05 19:44:45 info: =================================
+2023-05-05 19:44:45 info: ======= ENV: development =======
+2023-05-05 19:44:45 info: 🚀 App listening on the port 8080
+2023-05-05 19:44:45 info: =================================
+2023-05-05 19:46:01 info: =================================
+2023-05-05 19:46:01 info: ======= ENV: development =======
+2023-05-05 19:46:01 info: 🚀 App listening on the port 8080
+2023-05-05 19:46:01 info: =================================
+2023-05-05 19:46:34 info: =================================
+2023-05-05 19:46:34 info: ======= ENV: development =======
+2023-05-05 19:46:34 info: 🚀 App listening on the port 8080
+2023-05-05 19:46:34 info: =================================
+2023-05-05 19:46:41 info: =================================
+2023-05-05 19:46:41 info: ======= ENV: development =======
+2023-05-05 19:46:41 info: 🚀 App listening on the port 8080
+2023-05-05 19:46:41 info: =================================
+2023-05-05 19:47:33 info: =================================
+2023-05-05 19:47:33 info: ======= ENV: development =======
+2023-05-05 19:47:33 info: 🚀 App listening on the port 8080
+2023-05-05 19:47:33 info: =================================
+2023-05-05 19:47:44 info: [0mPOST /user/ [32m200[0m 61.380 ms - 156[0m
+2023-05-05 19:48:06 error: [POST] /auth/login >> StatusCode:: 400, Message:: property firtName should not exist, firstName must be a string,firstName should not be empty
+2023-05-05 19:48:06 info: [0mPOST /auth/login [33m400[0m 8.754 ms - 106[0m
+2023-05-05 19:48:30 error: [POST] /auth/login >> StatusCode:: 400, Message:: property firtName should not exist, firstName must be a string,firstName should not be empty
+2023-05-05 19:48:30 info: [0mPOST /auth/login [33m400[0m 3.825 ms - 106[0m
+2023-05-05 19:48:54 info: =================================
+2023-05-05 19:48:54 info: ======= ENV: development =======
+2023-05-05 19:48:54 info: 🚀 App listening on the port 8080
+2023-05-05 19:48:54 info: =================================
+2023-05-05 19:50:38 info: =================================
+2023-05-05 19:50:38 info: ======= ENV: development =======
+2023-05-05 19:50:38 info: 🚀 App listening on the port 8080
+2023-05-05 19:50:38 info: =================================
+2023-05-05 19:51:03 info: =================================
+2023-05-05 19:51:03 info: ======= ENV: development =======
+2023-05-05 19:51:03 info: 🚀 App listening on the port 8080
+2023-05-05 19:51:03 info: =================================
+2023-05-05 19:51:04 error: [POST] /auth/login >> StatusCode:: 400, Message:: property firtName should not exist, firstName must be a string,firstName should not be empty
+2023-05-05 19:51:04 info: [0mPOST /auth/login [33m400[0m 28.366 ms - 106[0m
+2023-05-05 19:51:10 info: [0mPOST /auth/login [32m200[0m 30.729 ms - 362[0m
+2023-05-05 19:51:40 info: =================================
+2023-05-05 19:51:40 info: ======= ENV: development =======
+2023-05-05 19:51:40 info: 🚀 App listening on the port 8080
+2023-05-05 19:51:40 info: =================================
+2023-05-05 19:51:46 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 19:51:47 info: [0mGET /user/2 [33m404[0m 13.516 ms - 42[0m
+2023-05-05 19:52:12 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 19:52:12 info: [0mGET /user/2 [33m404[0m 3.094 ms - 42[0m
+2023-05-05 19:52:24 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 19:52:24 info: [0mGET /user/2 [33m404[0m 2.582 ms - 42[0m
+2023-05-05 19:52:41 info: =================================
+2023-05-05 19:52:41 info: ======= ENV: development =======
+2023-05-05 19:52:41 info: 🚀 App listening on the port 8080
+2023-05-05 19:52:41 info: =================================
+2023-05-05 19:52:46 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 19:52:46 info: [0mGET /user/2 [33m404[0m 14.436 ms - 42[0m
+2023-05-05 19:53:04 info: =================================
+2023-05-05 19:53:04 info: ======= ENV: development =======
+2023-05-05 19:53:04 info: 🚀 App listening on the port 8080
+2023-05-05 19:53:04 info: =================================
+2023-05-05 19:53:05 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 19:53:05 info: [0mGET /user/2 [33m404[0m 16.198 ms - 42[0m
+2023-05-05 19:54:19 info: =================================
+2023-05-05 19:54:19 info: ======= ENV: development =======
+2023-05-05 19:54:19 info: 🚀 App listening on the port 8080
+2023-05-05 19:54:19 info: =================================
+2023-05-05 19:54:24 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 19:54:24 info: [0mGET /user/2 [33m404[0m 18.987 ms - 42[0m
+2023-05-05 19:54:31 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 19:54:31 info: [0mGET /user/2 [33m404[0m 3.763 ms - 42[0m
+2023-05-05 19:54:59 info: =================================
+2023-05-05 19:54:59 info: ======= ENV: development =======
+2023-05-05 19:54:59 info: 🚀 App listening on the port 8080
+2023-05-05 19:54:59 info: =================================
+2023-05-05 19:55:00 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 19:55:00 info: [0mGET /user/2 [33m404[0m 29.512 ms - 42[0m
+2023-05-05 19:55:22 info: =================================
+2023-05-05 19:55:22 info: ======= ENV: development =======
+2023-05-05 19:55:22 info: 🚀 App listening on the port 8080
+2023-05-05 19:55:22 info: =================================
+2023-05-05 19:55:23 error: [GET] /user/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2023-05-05 19:55:23 info: [0mGET /user/2 [33m401[0m 20.919 ms - 40[0m
+2023-05-05 19:55:36 info: =================================
+2023-05-05 19:55:36 info: ======= ENV: development =======
+2023-05-05 19:55:36 info: 🚀 App listening on the port 8080
+2023-05-05 19:55:36 info: =================================
+2023-05-05 19:55:37 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 19:55:37 info: [0mGET /user/2 [33m404[0m 16.724 ms - 42[0m
+2023-05-05 19:55:47 info: =================================
+2023-05-05 19:55:47 info: ======= ENV: development =======
+2023-05-05 19:55:47 info: 🚀 App listening on the port 8080
+2023-05-05 19:55:47 info: =================================
+2023-05-05 19:55:48 error: [GET] /user/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2023-05-05 19:55:48 info: [0mGET /user/2 [33m401[0m 109.851 ms - 40[0m
+2023-05-05 19:56:09 error: [GET] /user/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2023-05-05 19:56:09 info: [0mGET /user/2 [33m401[0m 6.768 ms - 40[0m
+2023-05-05 19:56:20 info: =================================
+2023-05-05 19:56:20 info: ======= ENV: development =======
+2023-05-05 19:56:20 info: 🚀 App listening on the port 8080
+2023-05-05 19:56:20 info: =================================
+2023-05-05 19:56:21 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 19:56:21 info: [0mGET /user/2 [33m404[0m 20.775 ms - 42[0m
+2023-05-05 19:56:28 info: =================================
+2023-05-05 19:56:28 info: ======= ENV: development =======
+2023-05-05 19:56:28 info: 🚀 App listening on the port 8080
+2023-05-05 19:56:28 info: =================================
+2023-05-05 19:56:30 error: [GET] /user/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2023-05-05 19:56:30 info: [0mGET /user/2 [33m401[0m 19.299 ms - 40[0m
+2023-05-05 19:56:43 info: =================================
+2023-05-05 19:56:43 info: ======= ENV: development =======
+2023-05-05 19:56:43 info: 🚀 App listening on the port 8080
+2023-05-05 19:56:43 info: =================================
+2023-05-05 19:56:45 error: [GET] /user/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2023-05-05 19:56:45 info: [0mGET /user/2 [33m401[0m 17.056 ms - 40[0m
+2023-05-05 19:57:06 info: =================================
+2023-05-05 19:57:06 info: ======= ENV: development =======
+2023-05-05 19:57:06 info: 🚀 App listening on the port 8080
+2023-05-05 19:57:06 info: =================================
+2023-05-05 19:57:13 info: [0mPOST /auth/login [32m200[0m 55.884 ms - 362[0m
+2023-05-05 19:57:20 error: [GET] /user/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2023-05-05 19:57:20 info: [0mGET /user/2 [33m401[0m 15.697 ms - 40[0m
+2023-05-05 19:57:51 info: =================================
+2023-05-05 19:57:51 info: ======= ENV: development =======
+2023-05-05 19:57:51 info: 🚀 App listening on the port 8080
+2023-05-05 19:57:51 info: =================================
+2023-05-05 19:57:55 error: [GET] /user/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2023-05-05 19:57:55 info: [0mGET /user/2 [33m401[0m 19.997 ms - 40[0m
+2023-05-05 19:58:15 info: =================================
+2023-05-05 19:58:15 info: ======= ENV: development =======
+2023-05-05 19:58:15 info: 🚀 App listening on the port 8080
+2023-05-05 19:58:15 info: =================================
+2023-05-05 19:58:18 info: [0mPOST /auth/login [32m200[0m 51.526 ms - 362[0m
+2023-05-05 19:59:09 info: =================================
+2023-05-05 19:59:09 info: ======= ENV: development =======
+2023-05-05 19:59:09 info: 🚀 App listening on the port 8080
+2023-05-05 19:59:09 info: =================================
+2023-05-05 19:59:13 info: [0mPOST /auth/login [32m200[0m 51.756 ms - 362[0m
+2023-05-05 19:59:28 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 19:59:28 info: [0mGET /user/2 [33m404[0m 13.860 ms - 42[0m
+2023-05-05 20:00:17 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 20:00:17 info: [0mGET /user/2 [33m404[0m 6.571 ms - 42[0m
+2023-05-05 20:00:34 info: =================================
+2023-05-05 20:00:34 info: ======= ENV: development =======
+2023-05-05 20:00:34 info: 🚀 App listening on the port 8080
+2023-05-05 20:00:34 info: =================================
+2023-05-05 20:00:35 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 20:00:35 info: [0mGET /user/2 [33m404[0m 21.021 ms - 42[0m
+2023-05-05 20:01:08 info: =================================
+2023-05-05 20:01:08 info: ======= ENV: development =======
+2023-05-05 20:01:08 info: 🚀 App listening on the port 8080
+2023-05-05 20:01:08 info: =================================
+2023-05-05 20:01:09 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 20:01:09 info: [0mGET /user/2 [33m404[0m 20.172 ms - 42[0m
+2023-05-05 20:01:11 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 20:01:11 info: [0mGET /user/2 [33m404[0m 3.523 ms - 42[0m
+2023-05-05 20:01:39 info: =================================
+2023-05-05 20:01:39 info: ======= ENV: development =======
+2023-05-05 20:01:39 info: 🚀 App listening on the port 8080
+2023-05-05 20:01:39 info: =================================
+2023-05-05 20:01:41 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 20:01:41 info: [0mGET /user/2 [33m404[0m 17.819 ms - 42[0m
+2023-05-05 20:02:02 info: =================================
+2023-05-05 20:02:02 info: ======= ENV: development =======
+2023-05-05 20:02:02 info: 🚀 App listening on the port 8080
+2023-05-05 20:02:02 info: =================================
+2023-05-05 20:02:03 info: [0mGET /user/2 [32m200[0m 48.776 ms - -[0m
+2023-05-05 20:02:52 info: =================================
+2023-05-05 20:02:52 info: ======= ENV: development =======
+2023-05-05 20:02:52 info: 🚀 App listening on the port 8080
+2023-05-05 20:02:52 info: =================================
+2023-05-05 20:02:54 info: [0mGET /user/2 [32m200[0m 45.276 ms - -[0m
+2023-05-05 20:03:07 info: =================================
+2023-05-05 20:03:07 info: ======= ENV: development =======
+2023-05-05 20:03:07 info: 🚀 App listening on the port 8080
+2023-05-05 20:03:07 info: =================================
+2023-05-05 20:03:10 info: [0mGET /user/2 [32m200[0m 38.865 ms - -[0m
+2023-05-05 20:03:18 info: =================================
+2023-05-05 20:03:18 info: ======= ENV: development =======
+2023-05-05 20:03:18 info: 🚀 App listening on the port 8080
+2023-05-05 20:03:18 info: =================================
+2023-05-05 20:03:19 info: [0mGET /user/2 [32m200[0m 41.608 ms - -[0m
+2023-05-05 20:03:35 info: =================================
+2023-05-05 20:03:35 info: ======= ENV: development =======
+2023-05-05 20:03:35 info: 🚀 App listening on the port 8080
+2023-05-05 20:03:35 info: =================================
+2023-05-05 20:04:05 info: =================================
+2023-05-05 20:04:05 info: ======= ENV: development =======
+2023-05-05 20:04:05 info: 🚀 App listening on the port 8080
+2023-05-05 20:04:05 info: =================================

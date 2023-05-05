@@ -584,3 +584,30 @@ Error: ENOENT: no such file or directory, open 'D:\repositories\testovoeUserPDF\
     at Object.readFileSync (node:fs:458:35)
     at saveBuffer (D:\repositories\testovoeUserPDF\src\utils\fileGenerate\pdfGenerate.ts:46:25)
 2023-05-05 19:16:47 error: [POST] /user/files/ >> StatusCode:: 500, Message:: Something went wrong
+2023-05-05 19:31:17 error: [POST] /user/ >> StatusCode:: 400, Message:: Error: This user already registered
+2023-05-05 19:48:06 error: [POST] /auth/login >> StatusCode:: 400, Message:: property firtName should not exist, firstName must be a string,firstName should not be empty
+2023-05-05 19:48:30 error: [POST] /auth/login >> StatusCode:: 400, Message:: property firtName should not exist, firstName must be a string,firstName should not be empty
+2023-05-05 19:51:04 error: [POST] /auth/login >> StatusCode:: 400, Message:: property firtName should not exist, firstName must be a string,firstName should not be empty
+2023-05-05 19:51:46 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 19:52:12 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 19:52:24 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 19:52:46 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 19:53:05 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 19:54:24 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 19:54:31 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 19:55:00 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 19:55:23 error: [GET] /user/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2023-05-05 19:55:37 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 19:55:48 error: [GET] /user/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2023-05-05 19:56:09 error: [GET] /user/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2023-05-05 19:56:21 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 19:56:30 error: [GET] /user/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2023-05-05 19:56:45 error: [GET] /user/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2023-05-05 19:57:20 error: [GET] /user/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2023-05-05 19:57:55 error: [GET] /user/2 >> StatusCode:: 401, Message:: Wrong authentication token
+2023-05-05 19:59:28 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 20:00:17 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 20:00:35 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 20:01:09 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 20:01:11 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 20:01:41 error: [GET] /user/2 >> StatusCode:: 404, Message:: Authentication token missing
