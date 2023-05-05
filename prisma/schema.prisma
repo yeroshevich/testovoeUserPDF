@@ -15,7 +15,7 @@ model User {
   firstName String
   lastName  String
   image     String
-  pdf       Bytes
+  pdf       Bytes? @db.LongBlob
 
   @@map("user")
 }

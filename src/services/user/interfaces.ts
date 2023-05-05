@@ -11,5 +11,6 @@ export interface IUserPhotoService{
 }
 export type TUserFiles = 'pdf'
 export interface IUserFilesService{
-  generatePdfFile(user:UserEmail,fileType:TUserFiles):Promise<IActionResult>
+  generatePdfFile(user:UserEmail,fileType:TUserFiles):Promise<IActionResult>,
+  getFile(user:UserEmail):Promise<Buffer>
 }

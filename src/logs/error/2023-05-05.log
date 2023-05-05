@@ -1,0 +1,579 @@
+2023-05-05 10:33:54 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\repositories\testovoeUserPDF\node_modules\@prisma\client\scripts\default-index.js:3:11)
+    at Object.<anonymous> (D:\repositories\testovoeUserPDF\prisma\client.ts:3:29)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+2023-05-05 10:35:32 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\repositories\testovoeUserPDF\node_modules\@prisma\client\scripts\default-index.js:3:11)
+    at Object.<anonymous> (D:\repositories\testovoeUserPDF\prisma\client.ts:3:29)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+2023-05-05 10:35:46 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\repositories\testovoeUserPDF\node_modules\@prisma\client\scripts\default-index.js:3:11)
+    at Object.<anonymous> (D:\repositories\testovoeUserPDF\prisma\client.ts:3:29)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+2023-05-05 10:36:10 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\repositories\testovoeUserPDF\node_modules\@prisma\client\scripts\default-index.js:3:11)
+    at Object.<anonymous> (D:\repositories\testovoeUserPDF\prisma\client.ts:3:29)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+2023-05-05 10:36:25 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\repositories\testovoeUserPDF\node_modules\@prisma\client\scripts\default-index.js:3:11)
+    at Object.<anonymous> (D:\repositories\testovoeUserPDF\prisma\client.ts:3:29)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+2023-05-05 10:38:07 error: [POST] /user/ >> StatusCode:: 400, Message:: property image: should not exist, image should not be empty
+2023-05-05 10:38:33 error: [POST] /user/ >> StatusCode:: 400, Message:: property image: should not exist, image should not be empty
+2023-05-05 10:39:14 error: [POST] /user/ >> StatusCode:: 400, Message:: property image: should not exist
+2023-05-05 10:40:01 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\repositories\testovoeUserPDF\node_modules\@prisma\client\scripts\default-index.js:3:11)
+    at Object.<anonymous> (D:\repositories\testovoeUserPDF\prisma\client.ts:3:29)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+2023-05-05 10:40:10 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\repositories\testovoeUserPDF\node_modules\@prisma\client\scripts\default-index.js:3:11)
+    at Object.<anonymous> (D:\repositories\testovoeUserPDF\prisma\client.ts:3:29)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+2023-05-05 10:40:25 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\repositories\testovoeUserPDF\node_modules\@prisma\client\scripts\default-index.js:3:11)
+    at Object.<anonymous> (D:\repositories\testovoeUserPDF\prisma\client.ts:3:29)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+2023-05-05 10:41:45 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\repositories\testovoeUserPDF\node_modules\@prisma\client\scripts\default-index.js:3:11)
+    at Object.<anonymous> (D:\repositories\testovoeUserPDF\prisma\client.ts:3:29)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+2023-05-05 10:42:12 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\repositories\testovoeUserPDF\node_modules\@prisma\client\scripts\default-index.js:3:11)
+    at Object.<anonymous> (D:\repositories\testovoeUserPDF\prisma\client.ts:3:29)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+2023-05-05 10:42:38 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\repositories\testovoeUserPDF\node_modules\@prisma\client\scripts\default-index.js:3:11)
+    at Object.<anonymous> (D:\repositories\testovoeUserPDF\prisma\client.ts:3:16)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+2023-05-05 10:43:02 error: uncaughtException: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+Error: @prisma/client did not initialize yet. Please run "prisma generate" and try to import it again.
+In case this error is unexpected for you, please report it in https://github.com/prisma/prisma/issues
+    at new PrismaClient (D:\repositories\testovoeUserPDF\node_modules\@prisma\client\scripts\default-index.js:3:11)
+    at Object.<anonymous> (D:\repositories\testovoeUserPDF\prisma\client.ts:3:16)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+2023-05-05 10:44:38 error: uncaughtException: The "code" argument must be of type number. Received type string ('SIGINT')
+TypeError [ERR_INVALID_ARG_TYPE]: The "code" argument must be of type number. Received type string ('SIGINT')
+    at process.set [as exitCode] (node:internal/bootstrap/node:124:9)
+    at process.exit (node:internal/process/per_thread:188:24)
+    at process.<anonymous> (D:\repositories\testovoeUserPDF\node_modules\@prisma\client\runtime\library.js:99:2170)
+    at Object.onceWrapper (node:events:626:26)
+    at process.emit (node:events:511:28)
+    at process.emit (node:domain:489:12)
+    at process.emit.sharedData.processEmitHook.installedValue [as emit] (D:\repositories\testovoeUserPDF\node_modules\@cspotcode\source-map-support\source-map-support.js:745:40)
+2023-05-05 10:45:41 error: [POST] /user/ >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 10:46:05 error: [POST] /user/ >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 10:46:35 error: [POST] /user/ >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 10:46:40 error: uncaughtException: The "code" argument must be of type number. Received type string ('SIGINT')
+TypeError [ERR_INVALID_ARG_TYPE]: The "code" argument must be of type number. Received type string ('SIGINT')
+    at process.set [as exitCode] (node:internal/bootstrap/node:124:9)
+    at process.exit (node:internal/process/per_thread:188:24)
+    at process.<anonymous> (D:\repositories\testovoeUserPDF\node_modules\@prisma\client\runtime\library.js:99:2170)
+    at Object.onceWrapper (node:events:626:26)
+    at process.emit (node:events:511:28)
+    at process.emit (node:domain:489:12)
+    at process.emit.sharedData.processEmitHook.installedValue [as emit] (D:\repositories\testovoeUserPDF\node_modules\@cspotcode\source-map-support\source-map-support.js:745:40)
+2023-05-05 10:46:53 error: [POST] /user/ >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 10:47:22 error: [POST] /user/ >> StatusCode:: 400, Message:: Error: This user already registered
+2023-05-05 10:48:21 error: [POST] /user/ >> StatusCode:: 400, Message:: Error: Action failed, an error occurred
+2023-05-05 10:49:35 error: [POST] /user/ >> StatusCode:: 400, Message:: Error: This user already registered
+2023-05-05 10:49:41 error: [POST] /user/ >> StatusCode:: 400, Message:: Error: Action failed, an error occurred
+2023-05-05 10:49:58 error: [POST] /user/ >> StatusCode:: 400, Message:: Error: This user already registered
+2023-05-05 10:50:01 error: [POST] /user/ >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 10:50:08 error: [POST] /user/ >> StatusCode:: 400, Message:: Error: This user already registered
+2023-05-05 10:50:12 error: [POST] /user/ >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 10:50:40 error: [POST] /user/ >> StatusCode:: 400, Message:: Action failed, an error occurred | Error: ENOENT: no such file or directory, mkdir
+2023-05-05 10:51:26 error: [POST] /user/ >> StatusCode:: 400, Message:: Error: This user already registered
+2023-05-05 10:51:29 error: [POST] /user/ >> StatusCode:: 400, Message:: Action failed, an error occurred | Error: ENOENT: no such file or directory, mkdir
+2023-05-05 10:52:01 error: [POST] /user/ >> StatusCode:: 400, Message:: Action failed, an error occurred | Error: ENOENT: no such file or directory, mkdir
+2023-05-05 10:52:21 error: [POST] /user/ >> StatusCode:: 400, Message:: Error: This user already registered
+2023-05-05 10:53:17 error: [POST] /user/ >> StatusCode:: 400, Message:: Error: This user already registered
+2023-05-05 10:55:50 error: [POST] /user/ >> StatusCode:: 400, Message:: Error: This user already registered
+2023-05-05 10:58:03 error: [POST] /user/ >> StatusCode:: 400, Message:: Error: This user already registered
+2023-05-05 11:15:20 error: [DELETE] /user >> StatusCode:: 400, Message:: Error: User not found
+2023-05-05 11:23:52 error: [PUT] /user/ >> StatusCode:: 400, Message:: Action failed, an error occurred | Error: 
+Invalid `prisma.user.update()` invocation in
+D:\repositories\testovoeUserPDF\src\services\user\user.service.ts:55:32
+
+  52 const findedUser = await prisma.user.findFirst({where:{user_id:obj.user_id}})
+  53 if(isEmpty(findedUser)==true) throw exceptionFactory.getException('notFound','User not found')
+  54 const loadedPhoto = await this.photoService.uploadPhoto(obj.image,findedUser.user_id)
+→ 55 return await prisma.user.update(
+Unique constraint failed on the constraint: `user_email_key`
+2023-05-05 11:24:22 error: [PUT] /user/ >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 11:24:43 error: [PUT] /user/ >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 11:25:01 error: [PUT] /user/ >> StatusCode:: 400, Message:: Action failed, an error occurred | Error: 
+Invalid `prisma.user.update()` invocation in
+D:\repositories\testovoeUserPDF\src\services\user\user.service.ts:55:27
+
+  52 const findedUser = await prisma.user.findFirst({where:{user_id:obj.user_id}})
+  53 if(isEmpty(findedUser)==true) throw exceptionFactory.getException('notFound','User not found')
+  54 const loadedPhoto = await this.photoService.uploadPhoto(obj.image,findedUser.user_id)
+→ 55 return  prisma.user.update(
+Unique constraint failed on the constraint: `user_email_key`
+2023-05-05 11:41:41 error: [POST] /user/files/ >> StatusCode:: 500, Message:: Something went wrong
+2023-05-05 12:00:16 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/utils/fileGenerate/pdfGenerate.ts[0m:[93m9[0m:[93m3[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.
+
+[7m9[0m   }
+[7m [0m [91m  ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/utils/fileGenerate/pdfGenerate.ts[0m:[93m9[0m:[93m3[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.
+
+[7m9[0m   }
+[7m [0m [91m  ~[0m
+
+    at createTSError (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:863:19)
+    at D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+2023-05-05 12:00:40 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/utils/fileGenerate/pdfGenerate.ts[0m:[93m9[0m:[93m3[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.
+
+[7m9[0m   }
+[7m [0m [91m  ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/utils/fileGenerate/pdfGenerate.ts[0m:[93m9[0m:[93m3[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.
+
+[7m9[0m   }
+[7m [0m [91m  ~[0m
+
+    at createTSError (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:863:19)
+    at D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+2023-05-05 12:07:39 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/utils/fileGenerate/pdfGenerate.ts[0m:[93m20[0m:[93m3[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.
+
+[7m20[0m   }
+[7m  [0m [91m  ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/utils/fileGenerate/pdfGenerate.ts[0m:[93m20[0m:[93m3[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.
+
+[7m20[0m   }
+[7m  [0m [91m  ~[0m
+
+    at createTSError (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:863:19)
+    at D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+2023-05-05 12:13:39 error: [POST] /user/files/ >> StatusCode:: 500, Message:: Something went wrong
+2023-05-05 12:14:55 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/utils/fileGenerate/pdfGenerate.ts[0m:[93m23[0m:[93m14[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.
+
+[7m23[0m     document.
+[7m  [0m [91m             [0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/utils/fileGenerate/pdfGenerate.ts[0m:[93m23[0m:[93m14[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.
+
+[7m23[0m     document.
+[7m  [0m [91m             [0m
+
+    at createTSError (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:863:19)
+    at D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+2023-05-05 12:19:12 error: [POST] /user/files/ >> StatusCode:: 500, Message:: Something went wrong
+2023-05-05 12:26:34 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/utils/fileGenerate/pdfGenerate.ts[0m:[93m28[0m:[93m9[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m28[0m         }})
+[7m  [0m [91m        ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/utils/fileGenerate/pdfGenerate.ts[0m:[93m28[0m:[93m9[0m - [91merror[0m[90m TS1109: [0mExpression expected.
+
+[7m28[0m         }})
+[7m  [0m [91m        ~[0m
+
+    at createTSError (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:863:19)
+    at D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+2023-05-05 12:32:26 error: [POST] /user/files/read >> StatusCode:: 500, Message:: The argument 'path' must be a string or Uint8Array without null bytes. Received <Buffer 78 9c ed 98 6f 6c 13 65 1c c7 1f a2 be d3 19 13 79 29 6b 87 c3 bf 2f 84 65 60 a2 86 dd d3 b3 3b bb bb fa a6 83 bd 9c 04 ...
+2023-05-05 12:32:42 error: [POST] /user/files/read >> StatusCode:: 500, Message:: The argument 'path' must be a string or Uint8Array without null bytes. Received <Buffer 78 9c ed 98 6f 6c 13 65 1c c7 1f a2 be d3 19 13 79 29 6b 87 c3 bf 2f 84 65 60 a2 86 dd d3 b3 3b bb bb fa a6 83 bd 9c 04 ...
+2023-05-05 12:33:29 error: [POST] /user/files/read >> StatusCode:: 500, Message:: The argument 'path' must be a string or Uint8Array without null bytes. Received <Buffer 78 9c ed 98 6f 6c 13 65 1c c7 1f a2 be d3 19 13 79 29 6b 87 c3 bf 2f 84 65 60 a2 86 dd d3 b3 3b bb bb fa a6 83 bd 9c 04 ...
+2023-05-05 12:37:59 error: [POST] /user/files/read >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 12:38:06 error: [POST] /user/files/ >> StatusCode:: 500, Message:: Something went wrong
+2023-05-05 12:38:06 error: uncaughtException: ENOENT: no such file or directory, open 'D:\repositories\testovoeUserPDF\src\public\user\3\Валерий1683279485992.pdf'
+Error: ENOENT: no such file or directory, open 'D:\repositories\testovoeUserPDF\src\public\user\3\Валерий1683279485992.pdf'
+2023-05-05 12:38:55 error: [POST] /user/files/ >> StatusCode:: 500, Message:: Something went wrong
+2023-05-05 12:46:40 error: [POST] /user/files/read >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 12:50:13 error: [POST] /user/files/read >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 12:50:47 error: [POST] /user/files/read >> StatusCode:: 500, Message:: ENOENT: no such file or directory, open 'D:\repositories\testovoeUserPDF\src\public\user\3\1683280247591.pdf'
+2023-05-05 12:56:39 error: [POST] /user/files/ >> StatusCode:: 500, Message:: Something went wrong
+2023-05-05 12:57:03 error: [POST] /user/files/ >> StatusCode:: 500, Message:: Something went wrong
+2023-05-05 13:02:30 error: uncaughtException: The "code" argument must be of type number. Received type string ('SIGINT')
+TypeError [ERR_INVALID_ARG_TYPE]: The "code" argument must be of type number. Received type string ('SIGINT')
+    at process.set [as exitCode] (node:internal/bootstrap/node:124:9)
+    at process.exit (node:internal/process/per_thread:188:24)
+    at process.<anonymous> (D:\repositories\testovoeUserPDF\node_modules\@prisma\client\runtime\library.js:99:2170)
+    at Object.onceWrapper (node:events:626:26)
+    at process.emit (node:events:511:28)
+    at process.emit (node:domain:489:12)
+    at process.emit.sharedData.processEmitHook.installedValue [as emit] (D:\repositories\testovoeUserPDF\node_modules\@cspotcode\source-map-support\source-map-support.js:745:40)
+2023-05-05 13:25:36 error: [POST] /user/files/read >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 13:26:46 error: [POST] /user/files/read >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 13:27:21 error: [POST] /user/files/read >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 13:28:05 error: [POST] /user/files/read >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 13:28:32 error: [POST] /user/files/read >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 13:30:34 error: [POST] /user/files/read >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 13:31:12 error: [POST] /user/files/read >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 13:32:07 error: [POST] /user/files/read >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 13:40:18 error: [POST] /user/files/read >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 13:40:58 error: [POST] /user/files/read >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 18:45:42 error: [POST] /user/files/ >> StatusCode:: 500, Message:: Something went wrong
+2023-05-05 18:45:58 error: uncaughtException: The value of "value" is out of range. It must be >= 0 and <= 255. Received -1
+RangeError [ERR_OUT_OF_RANGE]: The value of "value" is out of range. It must be >= 0 and <= 255. Received -1
+    at new NodeError (node:internal/errors:399:5)
+    at writeU_Int8 (node:internal/buffer:740:11)
+    at Buffer.writeUInt8 (node:internal/buffer:750:10)
+    at EncodeStream.<computed> [as writeUInt8] (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\EncodeStream.js:118:23)
+    at NumberT.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Number.js:22:37)
+    at Struct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Struct.js:98:14)
+    at RangeArray.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Array.js:87:17)
+    at VersionedStruct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\VersionedStruct.js:125:14)
+    at VersionedStruct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\VersionedStruct.js:132:16)
+    at CFFSubset.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\fontkit\src\subset\CFFSubset.js:169:12)
+2023-05-05 18:46:46 error: uncaughtException: The value of "value" is out of range. It must be >= 0 and <= 255. Received -1
+RangeError [ERR_OUT_OF_RANGE]: The value of "value" is out of range. It must be >= 0 and <= 255. Received -1
+    at new NodeError (node:internal/errors:399:5)
+    at writeU_Int8 (node:internal/buffer:740:11)
+    at Buffer.writeUInt8 (node:internal/buffer:750:10)
+    at EncodeStream.<computed> [as writeUInt8] (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\EncodeStream.js:118:23)
+    at NumberT.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Number.js:22:37)
+    at Struct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Struct.js:98:14)
+    at RangeArray.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Array.js:87:17)
+    at VersionedStruct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\VersionedStruct.js:125:14)
+    at VersionedStruct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\VersionedStruct.js:132:16)
+    at CFFSubset.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\fontkit\src\subset\CFFSubset.js:169:12)
+2023-05-05 18:47:18 error: uncaughtException: The value of "value" is out of range. It must be >= 0 and <= 255. Received -1
+RangeError [ERR_OUT_OF_RANGE]: The value of "value" is out of range. It must be >= 0 and <= 255. Received -1
+    at new NodeError (node:internal/errors:399:5)
+    at writeU_Int8 (node:internal/buffer:740:11)
+    at Buffer.writeUInt8 (node:internal/buffer:750:10)
+    at EncodeStream.<computed> [as writeUInt8] (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\EncodeStream.js:118:23)
+    at NumberT.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Number.js:22:37)
+    at Struct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Struct.js:98:14)
+    at RangeArray.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Array.js:87:17)
+    at VersionedStruct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\VersionedStruct.js:125:14)
+    at VersionedStruct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\VersionedStruct.js:132:16)
+    at CFFSubset.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\fontkit\src\subset\CFFSubset.js:169:12)
+2023-05-05 18:47:33 error: uncaughtException: The value of "value" is out of range. It must be >= 0 and <= 255. Received -1
+RangeError [ERR_OUT_OF_RANGE]: The value of "value" is out of range. It must be >= 0 and <= 255. Received -1
+    at new NodeError (node:internal/errors:399:5)
+    at writeU_Int8 (node:internal/buffer:740:11)
+    at Buffer.writeUInt8 (node:internal/buffer:750:10)
+    at EncodeStream.<computed> [as writeUInt8] (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\EncodeStream.js:118:23)
+    at NumberT.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Number.js:22:37)
+    at Struct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Struct.js:98:14)
+    at RangeArray.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Array.js:87:17)
+    at VersionedStruct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\VersionedStruct.js:125:14)
+    at VersionedStruct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\VersionedStruct.js:132:16)
+    at CFFSubset.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\fontkit\src\subset\CFFSubset.js:169:12)
+2023-05-05 18:48:13 error: uncaughtException: The value of "value" is out of range. It must be >= 0 and <= 255. Received -1
+RangeError [ERR_OUT_OF_RANGE]: The value of "value" is out of range. It must be >= 0 and <= 255. Received -1
+    at new NodeError (node:internal/errors:399:5)
+    at writeU_Int8 (node:internal/buffer:740:11)
+    at Buffer.writeUInt8 (node:internal/buffer:750:10)
+    at EncodeStream.<computed> [as writeUInt8] (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\EncodeStream.js:118:23)
+    at NumberT.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Number.js:22:37)
+    at Struct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Struct.js:98:14)
+    at RangeArray.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Array.js:87:17)
+    at VersionedStruct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\VersionedStruct.js:125:14)
+    at VersionedStruct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\VersionedStruct.js:132:16)
+    at CFFSubset.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\fontkit\src\subset\CFFSubset.js:169:12)
+2023-05-05 18:49:36 error: [POST] /user/files/ >> StatusCode:: 500, Message:: Something went wrong
+2023-05-05 18:50:41 error: uncaughtException: The value of "value" is out of range. It must be >= 0 and <= 255. Received -1
+RangeError [ERR_OUT_OF_RANGE]: The value of "value" is out of range. It must be >= 0 and <= 255. Received -1
+    at new NodeError (node:internal/errors:399:5)
+    at writeU_Int8 (node:internal/buffer:740:11)
+    at Buffer.writeUInt8 (node:internal/buffer:750:10)
+    at EncodeStream.<computed> [as writeUInt8] (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\EncodeStream.js:118:23)
+    at NumberT.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Number.js:22:37)
+    at Struct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Struct.js:98:14)
+    at RangeArray.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Array.js:87:17)
+    at VersionedStruct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\VersionedStruct.js:125:14)
+    at VersionedStruct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\VersionedStruct.js:132:16)
+    at CFFSubset.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\fontkit\src\subset\CFFSubset.js:169:12)
+2023-05-05 18:51:10 error: uncaughtException: The value of "value" is out of range. It must be >= 0 and <= 255. Received -1
+RangeError [ERR_OUT_OF_RANGE]: The value of "value" is out of range. It must be >= 0 and <= 255. Received -1
+    at new NodeError (node:internal/errors:399:5)
+    at writeU_Int8 (node:internal/buffer:740:11)
+    at Buffer.writeUInt8 (node:internal/buffer:750:10)
+    at EncodeStream.<computed> [as writeUInt8] (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\EncodeStream.js:118:23)
+    at NumberT.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Number.js:22:37)
+    at Struct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Struct.js:98:14)
+    at RangeArray.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Array.js:87:17)
+    at VersionedStruct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\VersionedStruct.js:125:14)
+    at VersionedStruct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\VersionedStruct.js:132:16)
+    at CFFSubset.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\fontkit\src\subset\CFFSubset.js:169:12)
+2023-05-05 18:51:32 error: uncaughtException: The value of "value" is out of range. It must be >= 0 and <= 255. Received -1
+RangeError [ERR_OUT_OF_RANGE]: The value of "value" is out of range. It must be >= 0 and <= 255. Received -1
+    at new NodeError (node:internal/errors:399:5)
+    at writeU_Int8 (node:internal/buffer:740:11)
+    at Buffer.writeUInt8 (node:internal/buffer:750:10)
+    at EncodeStream.<computed> [as writeUInt8] (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\EncodeStream.js:118:23)
+    at NumberT.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Number.js:22:37)
+    at Struct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Struct.js:98:14)
+    at RangeArray.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Array.js:87:17)
+    at VersionedStruct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\VersionedStruct.js:125:14)
+    at VersionedStruct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\VersionedStruct.js:132:16)
+    at CFFSubset.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\fontkit\src\subset\CFFSubset.js:169:12)
+2023-05-05 18:52:25 error: uncaughtException: The value of "value" is out of range. It must be >= 0 and <= 255. Received -1
+RangeError [ERR_OUT_OF_RANGE]: The value of "value" is out of range. It must be >= 0 and <= 255. Received -1
+    at new NodeError (node:internal/errors:399:5)
+    at writeU_Int8 (node:internal/buffer:740:11)
+    at Buffer.writeUInt8 (node:internal/buffer:750:10)
+    at EncodeStream.<computed> [as writeUInt8] (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\EncodeStream.js:118:23)
+    at NumberT.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Number.js:22:37)
+    at Struct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Struct.js:98:14)
+    at RangeArray.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\Array.js:87:17)
+    at VersionedStruct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\VersionedStruct.js:125:14)
+    at VersionedStruct.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\restructure\src\VersionedStruct.js:132:16)
+    at CFFSubset.encode (D:\repositories\testovoeUserPDF\node_modules\@foliojs-fork\fontkit\src\subset\CFFSubset.js:169:12)
+2023-05-05 19:05:56 error: uncaughtException: listen EADDRINUSE: address already in use :::8080
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1812:16)
+    at listenInCluster (node:net:1860:12)
+    at Server.listen (node:net:1948:7)
+    at Function.listen (D:\repositories\testovoeUserPDF\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\repositories\testovoeUserPDF\src\app.ts:32:14)
+    at Object.<anonymous> (D:\repositories\testovoeUserPDF\src\server.ts:14:7)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+2023-05-05 19:06:15 error: uncaughtException: listen EADDRINUSE: address already in use :::8080
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1812:16)
+    at listenInCluster (node:net:1860:12)
+    at Server.listen (node:net:1948:7)
+    at Function.listen (D:\repositories\testovoeUserPDF\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\repositories\testovoeUserPDF\src\app.ts:32:14)
+    at Object.<anonymous> (D:\repositories\testovoeUserPDF\src\server.ts:14:7)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+2023-05-05 19:06:43 error: uncaughtException: listen EADDRINUSE: address already in use :::8080
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1812:16)
+    at listenInCluster (node:net:1860:12)
+    at Server.listen (node:net:1948:7)
+    at Function.listen (D:\repositories\testovoeUserPDF\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\repositories\testovoeUserPDF\src\app.ts:32:14)
+    at Object.<anonymous> (D:\repositories\testovoeUserPDF\src\server.ts:14:7)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+2023-05-05 19:07:00 error: uncaughtException: listen EADDRINUSE: address already in use :::8080
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1812:16)
+    at listenInCluster (node:net:1860:12)
+    at Server.listen (node:net:1948:7)
+    at Function.listen (D:\repositories\testovoeUserPDF\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\repositories\testovoeUserPDF\src\app.ts:32:14)
+    at Object.<anonymous> (D:\repositories\testovoeUserPDF\src\server.ts:14:7)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+2023-05-05 19:07:07 error: uncaughtException: listen EADDRINUSE: address already in use :::8080
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1812:16)
+    at listenInCluster (node:net:1860:12)
+    at Server.listen (node:net:1948:7)
+    at Function.listen (D:\repositories\testovoeUserPDF\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\repositories\testovoeUserPDF\src\app.ts:32:14)
+    at Object.<anonymous> (D:\repositories\testovoeUserPDF\src\server.ts:14:7)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+2023-05-05 19:07:16 error: uncaughtException: listen EADDRINUSE: address already in use :::8080
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1812:16)
+    at listenInCluster (node:net:1860:12)
+    at Server.listen (node:net:1948:7)
+    at Function.listen (D:\repositories\testovoeUserPDF\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\repositories\testovoeUserPDF\src\app.ts:32:14)
+    at Object.<anonymous> (D:\repositories\testovoeUserPDF\src\server.ts:14:7)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+2023-05-05 19:07:31 error: uncaughtException: listen EADDRINUSE: address already in use :::8080
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1812:16)
+    at listenInCluster (node:net:1860:12)
+    at Server.listen (node:net:1948:7)
+    at Function.listen (D:\repositories\testovoeUserPDF\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\repositories\testovoeUserPDF\src\app.ts:32:14)
+    at Object.<anonymous> (D:\repositories\testovoeUserPDF\src\server.ts:14:7)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module.m._compile (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repositories\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+2023-05-05 19:07:32 error: uncaughtException: The "code" argument must be of type number. Received type string ('SIGINT')
+TypeError [ERR_INVALID_ARG_TYPE]: The "code" argument must be of type number. Received type string ('SIGINT')
+    at process.set [as exitCode] (node:internal/bootstrap/node:124:9)
+    at process.exit (node:internal/process/per_thread:188:24)
+    at process.<anonymous> (D:\repositories\testovoeUserPDF\node_modules\@prisma\client\runtime\library.js:99:2170)
+    at Object.onceWrapper (node:events:626:26)
+    at process.emit (node:events:511:28)
+    at process.emit (node:domain:489:12)
+    at process.emit.sharedData.processEmitHook.installedValue [as emit] (D:\repositories\testovoeUserPDF\node_modules\@cspotcode\source-map-support\source-map-support.js:745:40)
+2023-05-05 19:12:18 error: [POST] /user/files/ >> StatusCode:: 500, Message:: Something went wrong
