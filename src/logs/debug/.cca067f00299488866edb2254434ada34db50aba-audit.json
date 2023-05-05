@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "D:\\repositories\\testovoeUserPDF\\src\\logs\\debug\\.cca067f00299488866edb2254434ada34db50aba-audit.json",
+    "files": [
+        {
+            "date": 1683267892857,
+            "name": "D:\\repositories\\testovoeUserPDF\\src\\logs\\debug\\2023-05-05.log",
+            "hash": "2fb340810fa05cbd0be6c4633c02c9dd2e47852845a6b5241f2dc9ab98ea9434"
+        }
+    ],
+    "hashType": "sha256"
+}
