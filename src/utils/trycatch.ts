@@ -11,7 +11,7 @@ export async function tryCatch<T>(
     return await cb()
   }catch (e){
     if(e instanceof HttpError)
-      throw exceptionFactory.getException(exception,exceptionMessage)
-    throw exceptionFactory.getException('badRequest',exceptionMessage)
+      throw exceptionFactory.getException(exception,`${e}`)
+    throw exceptionFactory.getException('badRequest',`${exceptionMessage}`)
   }
 }
