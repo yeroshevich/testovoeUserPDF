@@ -1,6 +1,5 @@
 import { IGenerateFile, IUploadResult } from "@utils/fileGenerate/interfaces";
 import { User } from "@prisma/client";
-import * as fs from "fs";
 import { USER_FILES_PATH } from "@config";
 import prisma from "@prima/client";
 import * as process from "process";
@@ -11,52 +10,48 @@ export class PdfGenerate implements IGenerateFile{
     const imagePath = `${USER_FILES_PATH}\\${user.user_id}\\${user.image.slice(user.image.lastIndexOf('/')+1,user.image.length)}`
     const fileName:string = `${user.firstName}.pdf`
     const path:string = `${USER_FILES_PATH}\\${user.user_id}\\${fileName}`
-    const writeFile = ()=>{
-      const fonts = {
-        Roboto: {
-          normal: `${process.cwd()}\\src\\assets\\arialmt.ttf`,
-        }
+    const fonts = {
+      Roboto: {
+        normal: `${process.cwd()}\\src\\assets\\arialmt.ttf`,
       }
-      const printer = new PdfPrinter(fonts)
-      const defs = {
-        content:[
-          {
-            layout:"noBorders",
-            fontSize:11,
-            table:{
-              widths:['33%','33%','33%'],
-              body:[
-                [{text:user.firstName},{text:user.lastName},''],
-                ['',{image: imagePath},''],
-              ]
-            }
-          }
-
-        ]
-      }
-
-      const options = {}
-
-      const doc= printer.createPdfKitDocument(defs,options)
-
-      doc.pipe(fs.createWriteStream(path))
-      doc.end()
     }
-    const saveBuffer = ()=>{
-      const buffer = fs.readFileSync(path)
-      prisma.user.update({
+    const printer = new PdfPrinter(fonts)
+    const defs = {
+      content:[
+        {
+          layout:"noBorders",
+          fontSize:11,
+          table:{
+            widths:['33%','33%','33%'],
+            body:[
+              [{text:user.firstName},{text:user.lastName},''],
+              ['',{image: imagePath},''],
+            ]
+          }
+        }
+
+      ]
+    }
+
+    const options = {}
+    const doc= printer.createPdfKitDocument(defs,options)
+    const chunks = [];
+
+    doc.on("data", chunk => {
+      chunks.push(chunk);
+    });
+
+    doc.on("end", () => {
+      const result = Buffer.concat(chunks);
+       prisma.user.update({
         where:{user_id:user.user_id},
         data:{
-          pdf:buffer
+          pdf:result
         }
-      }).then(response=>{
-        fs.unlinkSync(path)
-        fs.writeFileSync('./data.pdf',buffer)
-      })
-    }
-     writeFile()
-     saveBuffer()
+      }).then()
+    });
 
+    doc.end()
     return {path}
   }
 

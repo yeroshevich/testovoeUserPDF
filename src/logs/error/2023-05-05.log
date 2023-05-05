@@ -577,3 +577,10 @@ TypeError [ERR_INVALID_ARG_TYPE]: The "code" argument must be of type number. Re
     at process.emit (node:domain:489:12)
     at process.emit.sharedData.processEmitHook.installedValue [as emit] (D:\repositories\testovoeUserPDF\node_modules\@cspotcode\source-map-support\source-map-support.js:745:40)
 2023-05-05 19:12:18 error: [POST] /user/files/ >> StatusCode:: 500, Message:: Something went wrong
+2023-05-05 19:14:57 error: [POST] /user/files/ >> StatusCode:: 500, Message:: Something went wrong
+2023-05-05 19:15:30 error: uncaughtException: ENOENT: no such file or directory, open 'D:\repositories\testovoeUserPDF\src\public\user\3\Валерий.pdf'
+Error: ENOENT: no such file or directory, open 'D:\repositories\testovoeUserPDF\src\public\user\3\Валерий.pdf'
+    at Object.openSync (node:fs:590:3)
+    at Object.readFileSync (node:fs:458:35)
+    at saveBuffer (D:\repositories\testovoeUserPDF\src\utils\fileGenerate\pdfGenerate.ts:46:25)
+2023-05-05 19:16:47 error: [POST] /user/files/ >> StatusCode:: 500, Message:: Something went wrong
