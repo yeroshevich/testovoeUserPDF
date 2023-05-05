@@ -1,10 +1,10 @@
 import { HttpError } from "routing-controllers";
-import { exceptionFactory } from "@/app/factory";
+import { exceptionFactory } from "@/app/factory/objects";
 import { TExceptions } from "@exceptions/interfaces";
 
 export async function tryCatch<T>(
   cb:()=>Promise<T>,
-  exception:TExceptions,
+  exception:TExceptions = 'badRequest',
   exceptionMessage:string='Action failed, an error occurred'
 ):Promise<T> {
   try{
