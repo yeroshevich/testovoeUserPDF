@@ -28,12 +28,12 @@ yarn install
 
 echo '
 '
+chown node:node -Rf /var/www/.logs
+chown node:node -Rf /var/www/node_modules
+
 
 yarn prisma migrate dev --name init
 
-
-chown node:node -Rf /var/www/.logs
-chown node:node -Rf /var/www/node_modules
 
 echo '
 '
