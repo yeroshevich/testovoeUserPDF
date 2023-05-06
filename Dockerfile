@@ -1,10 +1,8 @@
 FROM node:lts
 
-
 WORKDIR /var/www
 
-COPY entrypoint.sh /entrypoint.sh
+COPY . .
 
-RUN chmod +x /entrypoint.sh
+CMD ["yarn","build"]
 
-ENTRYPOINT ["/entrypoint.sh"]

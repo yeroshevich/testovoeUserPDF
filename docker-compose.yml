@@ -23,14 +23,20 @@ services:
     ports:
       - 8080:8080
     depends_on:
-      - db-node
+      db-node:
+        condition: service_healthy
     tty: true
+
 
   db-node:
     image: mysql
     restart: always
     hostname: mysql
     container_name: db
+    healthcheck:
+      test: [ "CMD", "mysqladmin", "ping", "-h", "localhost" ]
+      timeout: 15s
+      retries: 10
     environment:
       MYSQL_PASSWORD: root
       MYSQL_ROOT_PASSWORD: root
@@ -38,3 +44,4 @@ services:
       MYSQLX: OFF
     ports:
       - 3307:3306
+
