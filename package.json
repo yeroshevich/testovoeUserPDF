@@ -6,7 +6,7 @@
   "main": "dist/server.js",
   "scripts": {
     "dev": "nodemon -L ./dist/server.js",
-    "build": "swc src -d dist --source-maps --copy-files",
+    "build": "prisma migrate dev --name init swc src -d dist --source-maps --copy-files",
     "build:tsc": "tsc && tsc-alias",
     "packing": "docker-compose up"
   },

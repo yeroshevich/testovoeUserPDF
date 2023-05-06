@@ -1,5 +1,6 @@
 FROM node:lts
 
+
 WORKDIR /var/www
 
 COPY entrypoint.sh /entrypoint.sh
