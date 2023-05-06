@@ -13,6 +13,7 @@ export class UserController{
   async findUserById(@Param('id')user_id:number){
     return await this.userService.getById(user_id)
   }
+
   @Post()
   @UseBefore(validationMiddleware(CreateUserDto,'body'))
   async createUser(@Body()userDto:CreateUserDto){

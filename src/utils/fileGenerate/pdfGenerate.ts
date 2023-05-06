@@ -1,18 +1,18 @@
 import { IGenerateFile, IUploadResult } from "@utils/fileGenerate/interfaces";
 import { User } from "@prisma/client";
-import { USER_FILES_PATH } from "@config";
+import { ASSETS_PATH, PLACEMENT_SEPARATOR, USER_FILES_PATH } from "@config";
 import prisma from "@prima/client";
 import * as process from "process";
 import PdfPrinter from "pdfmake";
 
 export class PdfGenerate implements IGenerateFile{
   async generate(user: User): Promise<IUploadResult> {
-    const imagePath:string = `${USER_FILES_PATH}\\${user.user_id}\\${user.image.slice(user.image.lastIndexOf('/')+1,user.image.length)}`
+    const imagePath:string = `${USER_FILES_PATH}${user.user_id}${PLACEMENT_SEPARATOR}${user.image.slice(user.image.lastIndexOf('/')+1,user.image.length)}`
     const fileName:string = `${user.firstName}.pdf`
-    const path:string = `${USER_FILES_PATH}\\${user.user_id}\\${fileName}`
+    const path:string = `${USER_FILES_PATH}${user.user_id}${PLACEMENT_SEPARATOR}${fileName}`
     const fonts = {
       Roboto: {
-        normal: `${process.cwd()}\\src\\assets\\arialmt.ttf`,
+        normal: `${ASSETS_PATH}arialmt.ttf`,
       }
     }
     const printer:PdfPrinter = new PdfPrinter(fonts)

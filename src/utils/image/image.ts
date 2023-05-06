@@ -1,6 +1,6 @@
 import { IActionResult, IImage, IPhotoResult, IPhotoUtil } from "@utils/image/interfaces";
 import * as fs from "fs";
-import { USER_FILES_PATH } from "@config";
+import { DIR_PLACEMENT, NODE_ENV, PLACEMENT_SEPARATOR, USER_FILES_PATH } from "@config";
 
 export class PhotoUtil implements IPhotoUtil{
 
@@ -48,8 +48,8 @@ export class PhotoUtil implements IPhotoUtil{
   }
 
   async saveFile(image: IImage,path:string): Promise<IPhotoResult> {
-    const dirExist = `${path}\\${image.originalname}`
-    const dirs = path.slice(path.search('public'),path.length).split('\\')
+    const dirExist = `${path}${PLACEMENT_SEPARATOR}${image.originalname}`
+    const dirs = path.slice(path.search('public'),path.length).split(PLACEMENT_SEPARATOR)
     dirs.forEach(dir=>{
       const notCreatedDir = path.slice(0,path.search(dir)+dir.length+1)
       if(fs.existsSync(notCreatedDir)==false)

@@ -620,3 +620,49 @@ TypeError [ERR_INVALID_ARG_TYPE]: The "code" argument must be of type number. Re
     at process.emit (node:events:511:28)
     at process.emit (node:domain:489:12)
     at process.emit.sharedData.processEmitHook.installedValue [as emit] (D:\repositories\testovoeUserPDF\node_modules\@cspotcode\source-map-support\source-map-support.js:745:40)
+2023-05-05 20:45:56 error: uncaughtException: listen EADDRINUSE: address already in use :::8080
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1733:16)
+    at listenInCluster (node:net:1781:12)
+    at Server.listen (node:net:1869:7)
+    at Function.listen (D:\workedRepository\testovoeUserPDF\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\workedRepository\testovoeUserPDF\src\app.ts:32:14)
+    at Object.<anonymous> (D:\workedRepository\testovoeUserPDF\src\server.ts:15:7)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\workedRepository\testovoeUserPDF\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\workedRepository\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+2023-05-05 20:46:52 error: uncaughtException: listen EADDRINUSE: address already in use :::8080
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1733:16)
+    at listenInCluster (node:net:1781:12)
+    at Server.listen (node:net:1869:7)
+    at Function.listen (D:\workedRepository\testovoeUserPDF\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\workedRepository\testovoeUserPDF\src\app.ts:32:14)
+    at Object.<anonymous> (D:\workedRepository\testovoeUserPDF\src\server.ts:15:7)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\workedRepository\testovoeUserPDF\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\workedRepository\testovoeUserPDF\node_modules\ts-node\src\index.ts:1621:12)
+2023-05-05 18:57:32 error: [POST] /user/ >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 18:57:38 error: [POST] /user/ >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 19:06:31 error: [POST] /user/ >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 19:08:28 error: [GET] /user/1 >> StatusCode:: 401, Message:: Wrong authentication token
+2023-05-05 19:08:43 error: [POST] /user/ >> StatusCode:: 400, Message:: Action failed, an error occurred
+2023-05-05 19:10:03 error: [POST] /user/ >> StatusCode:: 500, Message:: 
+Invalid `prisma.user.findFirst()` invocation in
+/var/www/src/services/user/user.service.ts:16:42
+
+  13 //
+  14 // })
+  15 if(isEmpty(obj)==true) throw exceptionFactory.getException('notFound','User data is empty')
+→ 16 const findedUser = await prisma.user.findFirst(
+Can't reach database server at `localhost`:`3306`
+
+Please make sure your database server is running at `localhost`:`3306`.
+2023-05-05 19:16:37 error: [POST] /user/ >> StatusCode:: 409, Message:: This user already registered
+2023-05-05 19:16:57 error: [GET] /user/1 >> StatusCode:: 401, Message:: Wrong authentication token
+2023-05-05 19:18:11 error: [POST] /user/files/ >> StatusCode:: 500, Message:: Something went wrong
+2023-05-05 19:19:45 error: [POST] /user/ >> StatusCode:: 400, Message:: Error: This user already registered
+2023-05-05 19:20:05 error: [GET] /user/photo/3/file.png >> StatusCode:: 404, Message:: Authentication token missing
+2023-05-05 19:21:00 error: [POST] /user/files/ >> StatusCode:: 500, Message:: Something went wrong

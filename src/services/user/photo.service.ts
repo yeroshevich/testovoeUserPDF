@@ -15,11 +15,12 @@ export class UserPhotoService implements IUserPhotoService{
 
   async uploadPhoto(image: IImage, user_id: number): Promise<IPhotoResult> {
     return await tryCatch<IPhotoResult>(async()=>{
-      const userPath= `${USER_FILES_PATH}\\${user_id}`
+      const userPath= `${USER_FILES_PATH}${user_id}`
       const existed = await photoUtil.isFileExist(userPath)
       if(existed.result==true)
         await photoUtil.removeFilesFromDir(userPath)
-      await photoUtil.saveFile(image,userPath)
+      console.log(userPath)
+      await photoUtil.saveFile(image,`${userPath}`)
       const domenPath= this.userPathBuild.generatePath(`${user_id}/${image.originalname}`)
       return {image:image.originalname,path:domenPath}
     })
